@@ -1,5 +1,5 @@
 # Library-Atomation-Tkinter
-This program uses the Tkinter as a GUI by using Python programming language to perform library automation operations over mysql database.
+This program uses the Tkinter as a GUI by using Python programming language to perform library automation operations over MySQL database.
 
 Login Window
 ![login](https://user-images.githubusercontent.com/75491382/132349261-5c63c686-0c79-4006-a2f7-c74caecc2a24.png)
